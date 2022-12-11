@@ -4,9 +4,9 @@
 As part of my final project for module [CS5228](https://nusmods.com/modules/CS5228/knowledge-discovery-and-data-mining) at NUS, we were given three tasks to complete. 
 - **Task 1:**  Prediction of Property Resale Prices - given the information about a property, predict the price.
 - **Task 2:** Property Recommendation - given the information about a property a user is interested in,  find "meaningful" alternatives that can be shown to the users in the form of recommendations
-- **Task 3:** Open Task - given the provided property dataset, explore your own ideas ato gain interesting insights into the data.
+- **Task 3:** Open Task - given the provided property dataset, explore your own ideas to gain interesting insights into the data.
 
-For task 3, I chose to analyse the hospital coverage in Singapore. One of the key amenity for a neighbourhood is a hospital. For a household with elderly or whose family members have chronic conditions, staying near a hospital would translate into less travelling time or even a matter of life or death in a critical situation. 
+For task 3, I chose to analyse the hospital coverage in Singapore. One of the key amenity for a neighbourhood is a hospital. For a household with elderly or whose family members have chronic conditions, staying near a hospital would translate into less travelling time or even a matter of life or death in a critical situation.  This project analyses the hospital coverage in Singapore so that flat buyers with hospital needs can make a more informed decision.
 
 Since the project involves working with geospatial data, the ``GeoPandas`` package for python was used. From the official [GeoPandas](https://geopandas.org/en/stable/index.html) documentation, GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types. Geometric operations are performed by shapely.
 
